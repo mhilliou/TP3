@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.29.0" timestamp="2022-10-05T08:37:26.229">
+<file name="/private/student/u/ou/mhilliou/Documents/ESIR2/OMD/WORKSPACE/TP3/src/main/java/Hilliou_Gravec_OMD/TP3/FirstPdf.java">
+<violation beginline="181" endline="181" begincolumn="25" endcolumn="33" rule="UnusedPrivateMethod" ruleset="Best Practices" package="Hilliou_Gravec_OMD.TP3" class="FirstPdf" method="inutile" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'inutile()'.
+</violation>
+<violation beginline="182" endline="182" begincolumn="14" endcolumn="17" rule="UnusedLocalVariable" ruleset="Best Practices" package="Hilliou_Gravec_OMD.TP3" class="FirstPdf" method="inutile" variable="bool" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'bool'.
+</violation>
+<violation beginline="185" endline="185" begincolumn="25" endcolumn="34" rule="UnusedPrivateMethod" ruleset="Best Practices" package="Hilliou_Gravec_OMD.TP3" class="FirstPdf" method="inutile2" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedprivatemethod" priority="3">
+Avoid unused private methods such as 'inutile2()'.
+</violation>
+<violation beginline="186" endline="186" begincolumn="14" endcolumn="17" rule="UnusedLocalVariable" ruleset="Best Practices" package="Hilliou_Gravec_OMD.TP3" class="FirstPdf" method="inutile2" variable="bool" externalInfoUrl="https://pmd.github.io/pmd-6.29.0/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'bool'.
+</violation>
+</file>
+</pmd>
